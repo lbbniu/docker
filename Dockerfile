@@ -1,2 +1,2 @@
 FROM node
-run npm install jsdom canvas -g
+RUN npm install jsdom canvas -g
